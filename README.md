@@ -42,4 +42,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sharun-arunanthy-9789881aa/)
 
 ---
+### 💡 Random Programming Quote Widget  
+<iframe src="https://Sharu-n-26.github.io/profile-widget/" width="400" height="150"></iframe>
 
